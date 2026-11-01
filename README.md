@@ -4,11 +4,11 @@ Free offline Android file manager — dual panes, archives, built-in editor, FTP
 
 - **Website: http://dataman-pjt.xo.je/
 - **Release:** r.1.00
-- **Contact:** chlen.otsosi@tutamail.com (subject: DataMan)
+- **Contact:** dataman.pjt@atomicmail.io (subject: DataMan)
 
 ## Support
 
-Optional. Email chlen.otsosi@tutamail.com with subject **DataMan donate** — details arranged privately.
+Optional. Email dataman.pjt@atomicmail.io with subject **DataMan donate** — details arranged privately.
 
 ## Security
 
